@@ -20,8 +20,7 @@ collectionTransaction.requestToPay(subscription-key,host,enviroment, {
     currency: string,
     externalId: string,
     payer: {
-        
-        partyId: string
+               partyId: string
     },
     payerMessage: string,
     payeeNote: string
